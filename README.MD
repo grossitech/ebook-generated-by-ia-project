@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="assets\ebook-representacao.png"
+    src="./assets/ebook-representacao.png"
     width="400"  
 />
 </p>
