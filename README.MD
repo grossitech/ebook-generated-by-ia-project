@@ -181,7 +181,7 @@ Resultado:
 
 <p align="center">
   <img 
-    src="Capa.png"
+    src="./assets/Capa.png"
     width="400"  
   />
 </p>
